@@ -4,14 +4,15 @@
 
 export const environment = {
   production: false,
-  firebaseConfig:  {
-    apiKey: 'AIzaSyDZqGwrbTL9WWmn_BZAONv7Vf9z1F_oYEU',
-    authDomain: 'fir-fotos-1befc.firebaseapp.com',
-    databaseURL: 'https://fir-fotos-1befc.firebaseio.com',
-    projectId: 'fir-fotos-1befc',
-    storageBucket: 'fir-fotos-1befc.appspot.com',
-    messagingSenderId: '157530069945',
-  };
+  firebase:  {
+    apiKey: 'AIzaSyCmjRsg49_e60XTELGouDDH4bO42M6sh3Y',
+  authDomain: 'fir-eac1c.firebaseapp.com',
+  databaseURL: 'https://fir-eac1c.firebaseio.com',
+  projectId: 'fir-eac1c',
+  storageBucket: 'fir-eac1c.appspot.com',
+  messagingSenderId: '261136043940',
+  appId: '1:261136043940:web:15a36d063153231b663b31',
+  }
 };
 
 /*
